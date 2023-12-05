@@ -43,7 +43,12 @@ in this way RAG models are designed to provide more accuracte responses...
 
 <hr>
 
-6. After this follow along the code file `main.py` in the repository.
+6. Activation of the database after it's creattion takes some time..
+
+<img width="331" alt="image" src="https://github.com/AmmanChhetri/Adventure-Game-OpenAI/assets/121025542/e555a831-38c5-4df9-be26-5363377dae23">
+
+<hr>
+7. After this follow along the code file `main.py` in the repository.
 
 
 
