@@ -1,5 +1,11 @@
 # Adventure-Game-OpenAI
 
+The necessary dependencies have been listed in the `Requirements.txt` file ...just create a virtual environment and install all the dependencies and then follow along.
+To install all the dependencies from `Requirements.txt`....activate your virtual environment..and then run the following command in the terminal
+`pip install -r \Requirements.txt`
+<br>
+To create the `Requirements.txt` file ..run the command in the terminall `pip freeze > Requirements.txt`
+
 
 ### LangChain -  https://astra.datastax.com/org/f86072ff-9b0c-4f97-bcea-b3224186edd2/integrations/LangChain
 
@@ -45,4 +51,6 @@ in this way RAG models are designed to provide more accuracte responses...
 NOTE - OpenAI API is not free....So once you get the key you can run this game
 1. Visit the website - https://platform.openai.com/api-keys
 2. Click on generate secret key and get your key
-    
+
+
+# To Run the Game ..while your virtual environment is activated...type the command `python .\main.py` in the terminal.
